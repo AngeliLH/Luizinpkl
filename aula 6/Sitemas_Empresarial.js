@@ -1,0 +1,5 @@
+let=prompt("Nome do Funcionário?")
+let anosNaempresa=(prompt("Qual o tempo de empresa?"))
+let=prompt("Qual e sua idade?")
+let=prompt(" e seu cargo?")
+cargogerente=prompt(salarioFinal=salarioBas(anosNaEmpresa/ 70 + 1))
